@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeanDelly
-- 🌱 I’m currently learning Computing Concepts, Java, Web Dev Stuff
+- 🌱 I’m currently studying Cs at University of Exeter
 - 👀 Other things I'm interested in;
    - Geopolitical / Military History
    - General knowledge
