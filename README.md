@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeanDelly
-- 🌱 I’m currently studying Cs at University of Exeter
+- 🌱 I’m currently studying Computer Science at the University of Exeter
 - 👀 Other things I'm interested in;
    - Geopolitical / Military History
    - General knowledge
