@@ -1,7 +1,7 @@
-### Hi, I’m Dean Kelly (aka KeanDelly) [website]
+### Hi, I’m Dean Kelly (aka [KeanDelly][website])
 
-## I’m currently studying Computer Science at the University of Exeter
-   - I'm currently in my second year of study and looking for an industrial placement year.
+## I’m a Student at the University of Exeter
+   - I'm currently in my second year of studying Computer Science and looking for an industrial placement year.
    - I'm in the process of making a website to develop my web development skills, and showcase others.
    - In the next Term, I'm looking to learn and develop skills in C Family of Languages
    - Main Goal for 2022: Use Git/Github more for projects
