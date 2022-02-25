@@ -5,7 +5,7 @@
    - I'm in the process of making a website to develop my web development skills, and showcase others.
    - In the next Term, I'm looking to learn and develop skills in C Family of Languages
    - Main Goal for 2022: Use Git/Github more for projects
-   - As a fun fact, I love Swimming, Reading, and I'm currently learning Mandarin
+   - As a fun fact, I love Swimming, Hockey and Reading.
    
 ## Reach out and Connect with me!
 [<img align="left" alt="keandelly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
