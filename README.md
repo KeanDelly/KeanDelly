@@ -10,7 +10,6 @@
    
 ## Reach out and Connect with me!
 [<img align="left" alt="keandelly | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="keandelly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [website]: https://deankelly.net
 [twitter]: https://twitter.com/KeanDelly
