@@ -1,4 +1,4 @@
-### Hi, I’m Dean Kelly (aka [KeanDelly])
+### Hi, I’m Dean Kelly 
 
 ## I’m a Student at the University of Exeter
    - I'm currently in my second year of studying Computer Science and looking for an industrial placement year.
@@ -8,7 +8,6 @@
    - As a fun fact, I love Swimming, Hockey and Reading.
    
 ## Reach out and Connect with me!
-[<img align="left" alt="keandelly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="keandelly | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="keandelly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
