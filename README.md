@@ -1,4 +1,4 @@
-### Hi, I’m Dean Kelly (aka [KeanDelly][website])
+### Hi, I’m Dean Kelly (aka [KeanDelly])
 
 ## I’m a Student at the University of Exeter
    - I'm currently in my second year of studying Computer Science and looking for an industrial placement year.
