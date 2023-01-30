@@ -1,11 +1,12 @@
 ### Hi, I’m Dean Kelly 
 
 ## I’m a Student at the University of Exeter
-   - I'm currently in my second year of studying Computer Science and looking for an industrial placement year.
-   - I'm in the process of making a website to develop my web development skills, and showcase others.
-   - In the next Term, I'm looking to learn and develop skills in C Family of Languages
-   - Main Goal for 2022: Use Git/Github more for projects
-   - As a fun fact, I love Swimming, Hockey and Reading.
+   - I'm currently in my third year of studying Computer Science and currently on an industrial placement year.
+   - On my placement im looking to develop my professional skills whilst also improving my ability to engineer software
+   - Currently I'm working on improving my ability in new languages, predominantly Ada95 and C# 
+   - Main Goal for 2023: Fully explore my strengths, capabilities and where I can improve as a Software Engineer
+   - As a fun fact, I love Swimming, Reading and have recently started climbing
+   - I am currently reading "The Massacre of Mankind" by Stephen Baxter
    
 ## Reach out and Connect with me!
 [<img align="left" alt="keandelly | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
