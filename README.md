@@ -1,9 +1,8 @@
 ### Hi, I’m Dean Kelly 
 
 ## I’m a Student at the University of Exeter
-   - I'm currently in my third year of studying Computer Science and currently on an industrial placement year.
-   - On my placement im looking to develop my professional skills whilst also improving my ability to engineer software
-   - Currently I'm working on improving my ability in new languages, predominantly Ada95 and C# 
+   - I'm currently in my final year of studying Computer Science.
+   - Currently using skills learned from industrial placement towards my Final Year Project 
    - Main Goal for 2023: Fully explore my strengths, capabilities and where I can improve as a Software Engineer
    - As a fun fact, I love Swimming, Reading and have recently started climbing
    - I am currently reading "The Massacre of Mankind" by Stephen Baxter
